@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@babel/core": "^7.23.7",
-    "@reduxjs/toolkit": "^2.1.0"
-  }
-}
